@@ -16,9 +16,3 @@ function List(props){
 }
 
 export default List;
-{/* <i className = "fa fa-times" 
-        aria-hidden="true" 
-        onClick={() => {
-         props.onSelect(props.id);
-        }} 
-        /> */}
